@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NavBar</string>
+    <string name="type_to_search">Type to search. . .</string>
 </resources>
